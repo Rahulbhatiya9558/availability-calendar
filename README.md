@@ -1,7 +1,6 @@
 === Availability Calendar ===
 Contributors: offshorewebmaster,bhatiyarahul
 Tags: availability calendar, holiday, event, working days, personal calendar 
-Donate link: https://www.offshorewebmaster.com/donate.html
 Requires at least: 3.5
 Requires PHP : 5.4.4
 Tested up to: 6.2
